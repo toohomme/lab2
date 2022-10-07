@@ -175,7 +175,7 @@ public class NewBehaviourScript : MonoBehaviour
 
 
 ## Задание 2
-1. Как и предыдущем задании подключаем API для работы с Google sheets и Google drive
+1. Как и в предыдущем задании подключаем API для работы с Google sheets и Google drive
 
 2. Код на Python:
 

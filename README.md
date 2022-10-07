@@ -60,9 +60,11 @@ while i <= len(mon):
 ```
 
 Скриншот данных из консоли:
+
 ![image](https://user-images.githubusercontent.com/102966721/194571588-dd9dc5a4-be55-49ee-b84e-e2b4f5bb6c58.png)
 
 Скриншот данных из Google sheets:
+
 ![image](https://user-images.githubusercontent.com/102966721/194571680-850a4a40-7d87-4101-905d-78ecac977f96.png)
 
 
@@ -168,6 +170,7 @@ public class NewBehaviourScript : MonoBehaviour
 ```
 
 Скриншот из проекта Unity:
+
 ![image](https://user-images.githubusercontent.com/102966721/194576775-e352d8d4-ddf4-4cf5-b7a7-b2f7fcf3598e.png)
 
 
@@ -240,10 +243,12 @@ while i <=len(mon):
 ```
 
 Данные из консоли:
+
 ![image](https://user-images.githubusercontent.com/102966721/194575489-2fa59333-32ad-472c-a911-6e51a0ec94f9.png)
 
 
 Данные в Google sheets:
+
 ![image](https://user-images.githubusercontent.com/102966721/194575545-d4e8b1eb-9678-493f-8c85-78dd95aa6cf7.png)
 
 Все файлы также будут приложены в архиве.

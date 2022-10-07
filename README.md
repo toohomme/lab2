@@ -36,7 +36,7 @@
 
 Код на Python:
 
-'''py
+```py
 import gspread
 import numpy as np
 
@@ -57,7 +57,7 @@ while i <= len(mon):
         sh.sheet1.update(('B' + str(i)), str(price[i - 1]))
         sh.sheet1.update(('C' + str(i)), str(tempInf))
         print(tempInf)
-'''
+```
 
 Скриншот данных из консоли:
 ![image](https://user-images.githubusercontent.com/102966721/194571588-dd9dc5a4-be55-49ee-b84e-e2b4f5bb6c58.png)
@@ -72,7 +72,7 @@ while i <= len(mon):
 
 Код на C#:
 
-'''c#
+```c#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -165,7 +165,7 @@ public class NewBehaviourScript : MonoBehaviour
         i++;
     }
 }
-'''
+```
 
 Скриншот из проекта Unity:
 ![image](https://user-images.githubusercontent.com/102966721/194576775-e352d8d4-ddf4-4cf5-b7a7-b2f7fcf3598e.png)
@@ -176,7 +176,7 @@ public class NewBehaviourScript : MonoBehaviour
 
 2. Код на Python:
 
-'''py
+```py
 import gspread
 import numpy as np
 import matplotlib.pyplot as plt
@@ -237,7 +237,7 @@ while i <=len(mon):
         
         print(a, b, loss)
 
-'''
+```
 
 Данные из консоли:
 ![image](https://user-images.githubusercontent.com/102966721/194575489-2fa59333-32ad-472c-a911-6e51a0ec94f9.png)

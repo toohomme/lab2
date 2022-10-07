@@ -251,7 +251,6 @@ while i <=len(mon):
 
 ![image](https://user-images.githubusercontent.com/102966721/194575545-d4e8b1eb-9678-493f-8c85-78dd95aa6cf7.png)
 
-Все файлы также будут приложены в архиве.
 
 
 
